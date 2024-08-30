@@ -8,9 +8,6 @@ This project is being a port of the [Maya Plugin](https://github.com/GPUOpen-Eff
 * Contributions are welcome, whether by pull or donations.
 
 ## Donate
- - Brazil
- PIX: trevias@live.com
- - International
  Paypal: trevias@live.com
 
 ## Installation
